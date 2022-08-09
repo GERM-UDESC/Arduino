@@ -1,0 +1,11 @@
+respeitando o esqematico
+a= 9
+b= 10
+c= 12 
+d= 3
+e= 2
+f= 7
+g= 5
+bolinha= 13
+
+Caso altere a ligação de algum deles vc precisa informar o pino alterado em PINMODES (linha 4) repeitando a ordem
